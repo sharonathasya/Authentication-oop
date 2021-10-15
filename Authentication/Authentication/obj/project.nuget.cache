@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dn2kwlzqv5sqb46cXae2E1mS2Uekba2o91WgS9h7fTocNGU0bG1UHYsm1CAxB2xknBnxYnksE0FXWm84iQ/d0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Candra\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Candra\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
